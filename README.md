@@ -1,4 +1,4 @@
-# Oracle-testsystem  
+# Oracle-student testsystem  
 简单的试卷生成和批改功能  
 1.题库需要手动添加  
 2.可以随机选择需求的题数生成考卷
